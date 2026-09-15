@@ -1,1 +1,1 @@
-Publikált weboldal: 20260909feladat2ma.netlify.app
+Publikált weboldal: https://avearagepythonuser.github.io/09_09_feladat2/
